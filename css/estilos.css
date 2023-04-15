@@ -34,7 +34,7 @@ vertical-align: middle;
     border: 1px solid #ddd;
     margin: auto;
 }
-#containes h1 
+#container h1 
 {
     font-size: 20px;
 }
@@ -42,4 +42,10 @@ vertical-align: middle;
 {
     background: white;
     padding: 1em;
+}
+#footer {
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
